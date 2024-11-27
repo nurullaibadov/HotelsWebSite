@@ -1,0 +1,30 @@
+[
+    {
+      "id": 1,
+      "name": "Hotel Sunshine",
+      "city": "New York",
+      "price": 120,
+      "image": "/images/hotel1.jpg",
+      "description": "A sunny hotel in the heart of New York City.",
+      "rating": 4.5
+    },
+    {
+      "id": 2,
+      "name": "Beach Resort",
+      "city": "Miami",
+      "price": 200,
+      "image": "/images/hotel2.jpg",
+      "description": "Relax by the beach with luxury amenities.",
+      "rating": 4.8
+    },
+    {
+      "id": 3,
+      "name": "Mountain Lodge",
+      "city": "Colorado",
+      "price": 150,
+      "image": "/images/hotel3.jpg",
+      "description": "Escape to the mountains for a peaceful retreat.",
+      "rating": 4.7
+    }
+  ]
+  
